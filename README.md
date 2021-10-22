@@ -7,7 +7,7 @@
 ## 在线网站
 
 ### 学习网站
-[learn-anything 学习路径](git@github.com:ppeiwang/Collection.git)
+[learn-anything 学习路径](https://learn-anything.xyz/)
 
 ### 工具
 
